@@ -9,3 +9,11 @@ let valueIntNumber=Number(num2)
 let isLoggedIn=0
 let bolleanIsLoggedIn=Boolean(isLoggedIn)
 console.log( bolleanIsLoggedIn)
+
+let isNumber=33
+
+let stringNumber=String(isNumber)
+
+console.log(stringNumber)
+
+console.log(typeof stringNumber)
